@@ -1,1 +1,0 @@
-# hakkaMall-node
